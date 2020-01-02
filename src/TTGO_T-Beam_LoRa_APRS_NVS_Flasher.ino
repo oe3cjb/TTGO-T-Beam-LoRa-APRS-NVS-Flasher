@@ -11,6 +11,8 @@
 
 #include <axp20x.h>
 
+#define EMPTY "EMPTY"
+
 // I2C LINES
 #define I2C_SDA 21
 #define I2C_SCL 22

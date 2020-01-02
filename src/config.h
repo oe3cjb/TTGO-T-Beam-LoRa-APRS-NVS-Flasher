@@ -11,7 +11,6 @@
 
 // #define WRITE_VALUES      // uncomment to write values
 
-#define EMPTY "EMPTY"
 #define CALLSIGN "OE3CJB-9"     // enter your callsign here - less then 6 letter callsigns please add "spaces" so total length is 6 (without SSID)
 #define WX_CALLSIGN "OE3CJB-9"  // use same callsign but you can use different SSID
 #define LONGITUDE_PRESET "01539.85E" // please in APRS notation DDMM.mmN or DDMM.mmS
